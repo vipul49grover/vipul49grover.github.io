@@ -78,6 +78,7 @@
 			checkIndex();
 			displayImage();
 		});
+		$("#right").click(function(){
 			currentIndex--;
 			checkIndex();
 			displayImage();
