@@ -1,0 +1,18 @@
+#storyquote blockquote{
+	height: 150px;
+	text-align: center;
+	font-weight: bolder;
+	padding-top: 40px;
+	font-size: 30px;
+}
+#storycontent{
+
+	border-right:1px solid #606060 ;
+	border-left: 1px solid #606060 ;
+}
+#about{
+	padding-left: 30px;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bolder;
+
+}

@@ -1,0 +1,143 @@
+body{
+	font-family:sans-serif;
+	background-color:#F0F0F0 ;
+}
+#top{
+	font-family: sans-serif;
+	background-color: #E8E8E8;
+	height: 80px;
+}
+#top h2{
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+#topleft{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: bolder; 
+	letter-spacing: 4px;
+}
+#word1{
+	font-weight: bolder; 
+	color: #CC0000;
+	letter-spacing: 0px;
+}
+#word2{
+	font-weight: bolder; 
+	color: #000066;	
+	letter-spacing: 0px;
+}
+#topright{
+	text-align: right;
+	padding-right: 100px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.navbar-default .navbar-right li a{
+	background-color: #606060;
+}
+.navbar-default .navbar-nav li,.navbar-default .navbar-nav li a{
+	color:white;
+	background-color: #606060;
+}
+.navbar-default .navbar-nav li a:hover{
+	background-color: white;
+	color : black;
+}
+#navbar{
+	background-color: #606060;
+}
+#navstory{
+	padding-right: 40px;
+}
+.navbar-default{
+	background-color: #606060;
+}
+#navbarspan{
+	border: 1px solid #707070;
+	border-radius: 4px;
+	padding: 10px;
+;
+}
+#navbarleft{
+	border-top: 2px solid #606060;border-bottom: 2px solid #505050;
+}
+#container-carousel{
+	margin:0px;
+	padding: 0px;
+	background-color:#D8D8D8;
+}
+#carousel{
+	text-align: center;
+	height: 400px;
+}
+.images{
+	padding-bottom: 20px;
+	width:100%;
+	display:none;
+	height:400px;
+}
+.images img{
+	max-width:100%;
+	height:100%;
+}
+#left,#right{
+	position:absolute;
+	font-size:100px;
+}
+#left{
+	top:100px;
+	left:100px;
+}
+#right{
+	top:100px;
+	right:100px;
+}
+.tt1{
+	margin:auto;	
+	width:150px;
+	height: 150px;
+}
+.tt1 img{
+	width:100%;
+	height: 100%;
+}
+#tables{
+	background-color: white;
+}
+#t1a:hover{
+	text-decoration: none;
+}
+.table1,.table2,.table4,.table5,.table3{
+	font-family: "Courier New", Courier, monospace;
+	width:150px;
+	vertical-align: middle;
+	background-color: #282828;
+	text-align: center;
+	padding-top: 40px;
+	margin:auto;
+	margin-top: 130px;	
+	vertical-align: middle;
+	height: 150px;
+	border-radius: 100px;
+	color:white;
+	margin-bottom: 150px;
+}
+#footer{
+	padding-top: 40px;
+	text-align: center;
+	height:250px;
+	background-color:#404040 ;
+	border-bottom: 1px solid white;	
+	color:white;
+}
+#footer-content{
+	border-bottom: 1px solid white;
+}
+#fheading{
+	padding-bottom: 40px;
+	font-weight: bold;
+	font-size: 17px;
+}
+#footer-sub-content{
+	font-size: 13px;
+}

@@ -1,0 +1,126 @@
+body{
+	font-family:sans-serif;
+	background-color:#F0F0F0 ;
+}
+#top{
+	font-family: sans-serif;
+	background-color: #E8E8E8;
+	height: 80px;
+}
+#top h2{
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+#topleft{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-weight: bolder; 
+	letter-spacing: 4px;
+}
+#word1{
+	font-weight: bolder; 
+	color: #CC0000;
+	letter-spacing: 0px;
+}
+#word2{
+	font-weight: bolder; 
+	color: #000066;	
+	letter-spacing: 0px;
+}
+#topright{
+	text-align: right;
+	padding-right: 100px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.navbar-default .navbar-right li a{
+	background-color: #606060;
+}
+.navbar-default .navbar-nav li,.navbar-default .navbar-nav li a{
+	color:white;
+	background-color: #606060;
+}
+.navbar-default .navbar-nav li a:hover{
+	background-color: white;
+	color : black;
+}
+#navbar{
+	background-color: #606060;
+}
+#navstory{
+	padding-right: 40px;
+}
+.navbar-default{
+	background-color: #606060;
+}
+#navbarspan{
+	border: 1px solid #707070;
+	border-radius: 4px;
+	padding: 10px;
+}
+#navbarleft{
+	border-top: 2px solid #606060;border-bottom: 2px solid #505050;
+}
+.image-motivation{
+	margin:auto;
+	text-align: center;
+	width:800px;
+	height:400px;
+}
+.image-motivation img{
+	width:100%;
+	height: 100%;
+}
+.quote-motivation{
+	position:absolute;
+	background-color: white;
+	top:530px;
+	left:170px;
+	color: #34495E;
+	font-size:35px;
+}
+#content{
+	margin-top: 50px;
+	padding-top: 80px;
+	background-color:#E8E8E8;
+	border-left: 2px solid #34495E;
+	border-right: 2px solid #34495E;
+}
+.content-image{
+	margin-bottom: 80px;
+	height:150px;
+	width:200px;
+}
+.content-image img{
+	width:100%;
+	height:100%;
+}
+.content-heading{
+	padding-left: 25px;
+	color:#585858;
+	font-size: 35px;	
+	font-weight: bold;
+}
+.content-text{
+	padding-left: 25px;
+	font-size:16px;
+	color:#585858;
+}
+#footer{
+	padding-top: 40px;
+	text-align: center;
+	height:250px;
+	background-color:#404040 ;
+	border-bottom: 1px solid white;	
+	color:white;
+}
+#footer-content{
+	border-bottom: 1px solid white;
+}
+#fheading{
+	padding-bottom: 40px;
+	font-weight: bold;
+	font-size: 17px;
+}
+#footer-sub-content{
+	font-size: 13px;
+}
